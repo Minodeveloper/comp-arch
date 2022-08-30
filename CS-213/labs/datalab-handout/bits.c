@@ -143,8 +143,20 @@ NOTES:
  *   Rating: 1
  */
 int bitXor(int x, int y) {
-  return x ^ y;
+	
+// ~x.y(step1) + x.~y(step2)   SOP form of XOR gate
+// A + B = ~(~A.~B) (step3)
+
+int step1 = (~x) & y;
+int step2 =   x  & (~y);
+int step3 = (~step1) & (~step2);
+int step4 = ~step3;
+
+return step4;
+
+
 }
+
 /* 
  * tmin - return minimum two's complement integer 
  *   Legal ops: ! ~ & ^ | + << >>
