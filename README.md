@@ -19,5 +19,6 @@ CSAPP AND CSCI 463 Course
 2. https://faculty.cs.niu.edu/~winans/CS463/2022-fa/
 3. https://www.youtube.com/playlist?list=PL3by7evD3F50NMukhaMqNdOt4pUHXT2Vo
 
+4. https://0xax.gitbooks.io/linux-insides/content/
 
 
