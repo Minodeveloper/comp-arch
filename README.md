@@ -20,5 +20,5 @@ CSAPP AND CSCI 463 Course
 3. https://www.youtube.com/playlist?list=PL3by7evD3F50NMukhaMqNdOt4pUHXT2Vo
 
 4. https://0xax.gitbooks.io/linux-insides/content/
-
+5. https://youtube.com/playlist?list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF (playlist COA)
 
