@@ -8,6 +8,7 @@ int main(int argc, char *argv[])
 	char initial = 'A';
 	char first_name[] = "Zed";
 	char last_name[] = "Shaw";
+	first_name[3] = 'K';
 
 	printf("You are %d miles away.\n", distance);
 	printf("You have %f levels of power.\n", power);
