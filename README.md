@@ -22,3 +22,4 @@ CSAPP AND CSCI 463 Course
 4. https://0xax.gitbooks.io/linux-insides/content/
 5. https://youtube.com/playlist?list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF (playlist COA)
 
+git remote set-url origin https://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@github.com/Minodeveloper/text-editor-c.git
